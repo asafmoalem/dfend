@@ -1,0 +1,56 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "contacts": {
+      "email": "john@example.com",
+      "phone": "123-456-7890"
+    },
+    "addresses": [
+        {
+        "type": "garden",
+        "street": "456 Main St",
+        "city": "Privyet",
+        "country": "RU",
+        "path": "/tmp/1"
+        },
+        {
+        "type": "villa",
+        "street": "456 Stam St",
+        "city": "Prutab",
+        "country": "FR",
+        "path": "/tmp/13"
+        },
+        {
+        "type": "home",
+        "street": "456 Main St",
+        "city": "Orolo",
+        "country": "USA",
+        "path": "/tmp/3"
+      },
+      {
+        "type": "home",
+        "street": "123 Main St",
+        "city": "Anytown",
+        "country": "USA",
+        "path": "/tmp/176"
+      },
+      {
+        "type": "work",
+        "street": "456 Business Ave",
+        "city": "Cityville",
+        "country": "IL",
+        "path": "/tmp/1777777777"
+      }
+    ],
+    "hobbies": ["reading", "hiking", "cooking"],
+    "friends": [
+      {
+        "name": "Alice",
+        "age": 28
+      },
+      {
+        "name": "Bob",
+        "age": 32
+      }
+    ]
+  }
